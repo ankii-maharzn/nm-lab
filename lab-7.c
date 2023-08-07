@@ -34,7 +34,7 @@ int main() {
     sum += f(a) + f(b);
 
     float i = (h/2) * sum;
-    printf("Integration value is: %f", i);
+    printf("Integration value is I: %f", i);
 
     return 0;
 }
