@@ -1,4 +1,4 @@
-// lagrange's
+// lagrange's interpolation
 #include<stdio.h>
 
 int main() {

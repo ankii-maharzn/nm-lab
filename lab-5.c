@@ -1,3 +1,4 @@
+// linear regression
 #include<stdio.h>
 #include<math.h>
 

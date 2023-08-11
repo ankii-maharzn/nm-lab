@@ -1,4 +1,4 @@
-// fixed point
+// fixed point iteration method
 #include<stdio.h>
 #include<math.h>
 
