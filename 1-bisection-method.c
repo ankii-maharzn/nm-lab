@@ -34,3 +34,9 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter initial guess (a, b): 3 4
+Enter tolerance value: 0.0001
+Final Root is: 3.449524
+*/

@@ -38,3 +38,10 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter lower limit of integral: 0
+Enter upper limit of integral: 1
+Enter number of subintervals: 6
+Integration value is I: 0.784241
+*/

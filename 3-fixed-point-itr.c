@@ -28,3 +28,13 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter initial guess: 2
+Enter tolerance value: 0.001
+Root for iteration 1 is: 2.079931
+Root for iteration 2 is: 2.092173
+Root for iteration 3 is: 2.094035
+Root for iteration 4 is: 2.094318
+Final Root is: 2.094035
+*/

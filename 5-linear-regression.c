@@ -31,3 +31,18 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter the number of data points: 5
+x[0]: 1
+y[0]: 3
+x[1]: 2
+y[1]: 5
+x[2]: 3
+y[2]: 7
+x[3]: 4
+y[3]: 10
+x[4]: 5
+y[4]: 12
+The required linear model is: 0.50 + 2.30x
+*/

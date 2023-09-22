@@ -34,3 +34,17 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter the number of points: 4
+x[0]: 5
+y[0]: 12
+x[1]: 6
+y[1]: 13
+x[2]: 9
+y[2]: 14
+x[3]: 11
+y[3]: 16
+Enter the value of x at which y is needed: 10
+The interpolated value of y: 14.666666
+*/

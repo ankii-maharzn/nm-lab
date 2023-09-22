@@ -1,4 +1,4 @@
-// gauss jacobi method
+// gauss siedel method
 #include<stdio.h>
 #include<math.h>
 
@@ -41,3 +41,16 @@ int main() {
     
     return 0;
 }
+
+
+/*
+Enter the tolerance value: 0.001
+Itr             x                       y                       z
+-------------------------------------------------------------------------
+0       |       0.850000        |       -1.027500       |       1.010875
+1       |       1.002463        |       -0.999826       |       0.999780
+2       |       0.999969        |       -1.000006       |       1.000002
+
+
+The values of x, y, z are 0.999969      -1.000006       1.000002
+*/
