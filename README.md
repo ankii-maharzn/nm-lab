@@ -2,7 +2,7 @@
 
 ### All labs completed! ✅
 
-
+[Download This Repository as zip Here](https://github.com/mansijmaharzn/nm-lab/archive/refs/heads/main.zip)  
 Consider opening a ticket for any kind of problem you faced 😄
 
 > By: Ankita Maharjan
