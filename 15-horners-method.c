@@ -1,0 +1,43 @@
+#include<stdio.h>
+
+#define P(x) (a[4]*x*x*x*x+a[3]*x*x*x+a[2]*x*x+a[1]*x+a[0])
+float a[100], b[100];
+
+int main() {
+    float x;
+    int n, i;
+
+    printf("Enter degree of polynomial: ");
+    scanf("%d", &n);
+
+    printf("Enter cofficients of dividend polynomial\n");
+    for (i=n; i>=0; i--) {
+        scanf("%f", &a[i]);
+    }
+
+    printf("Enter the value at which polynomial to be evaluated: ");
+    scanf("%f", &x);
+
+    b[n] = a[n];
+
+    while (n>0) {
+        b[n-1] = a[n-1] + b[n] * x;
+        n--;
+    }
+
+    printf("Value of polynomial p(%f)=%f", x, b[0]);
+
+    return 0;
+}
+
+/*
+Enter degree of polynomial: 4
+Enter cofficients of dividend polynomial
+2
+-1
+3
+-5
+4
+Enter the value at which polynomial to be evaluated: 2
+Value of polynomial p(2.000000)=30.000000
+*/
