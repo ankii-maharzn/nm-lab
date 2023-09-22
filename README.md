@@ -22,6 +22,6 @@ Consider opening a ticket for any kind of problem you faced 😄
 | **10**    | R-K Method                                    | **Completed** |
 | **11**    | Newtons Forward Difference Method             | **Completed** |
 | **12**    | Newtons Backward Difference Method            | **Completed** |
-| **13**    | Gauss Elimination Method                      | **Not Completed** |
+| **13**    | Gauss Elimination Method                      | **Completed** |
 | **14**    | Gauss Siedel Method                           | **Completed** |
 | **15**    | Horners Method                                | **Completed** |
